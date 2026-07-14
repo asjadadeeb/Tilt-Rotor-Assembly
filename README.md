@@ -28,8 +28,7 @@ The mechanism was designed from scratch in CAD, optimizing for minimal weight wi
 1. **The Base Housing:** Slides over and clamps down onto a 10mm square CF tube. It fully encloses the MG90S servo on one side and features a countersunk M3 screw hole on the opposite flank to seat the load-bearing axle alignment pivot.
 2. **The Tilting Arm:** Mounts the 5010 brushless motor. One side interfaces directly with the splined plastic/metal servo horn, while the opposite side retains the 623ZZ bearing, locked rigidly via an M3 screw back to the base housing.
 
-https://github.com/user-attachments/assets/320c4e67-e09d-42e6-9a84-55a1d08f6bc8
-
+https://github.com/user-attachments/assets/19490eb6-71d6-4aaf-bbe3-709d6d122a36
 
 ---
 
